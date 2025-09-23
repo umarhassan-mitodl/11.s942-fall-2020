@@ -1,0 +1,22 @@
+leftnav:
+- identifier: 1d6df855-635d-9990-5904-360b1431926a
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 1d80cea4-e5ec-2a00-6bc2-74e1e386d5ad
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: d3a96d59-67c1-c7d5-a3c9-9b3af686fae2
+  name: Readings
+  pageRef: /pages/schedule-of-readings/
+  weight: 30
+- identifier: 999f0f19-3742-f24d-888f-d64d61fa08c5
+  name: Bibliography
+  pageRef: /pages/schedule-of-readings/bibliography
+  parent: d3a96d59-67c1-c7d5-a3c9-9b3af686fae2
+  weight: 40
+- identifier: 617c4ffd-6367-fcb8-8669-19dc806b57a4
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
