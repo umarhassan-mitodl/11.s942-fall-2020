@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a description of 11.S942 and outlines the grading
   policies and other logistical details pertaining to the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -133,7 +135,7 @@ If you have a documented disability, or any other problem you think may affect y
 
 _Writing and Communication Center_
 
-The {{% resource_link "894b5d05-f3fb-47be-bd2b-323850ca4373" "Writing and Communication Center at MIT" %}} (WCC) offers free one-on-one professional advice from communication experts. The WCC is staffed completely by MIT lecturers. All have advanced degrees. All are experienced college classroom teachers of communication. All are published scholars and writers.
+The [Writing and Communication Center at MIT](https://cmsw.mit.edu/writing-and-communication-center/) (WCC) offers free one-on-one professional advice from communication experts. The WCC is staffed completely by MIT lecturers. All have advanced degrees. All are experienced college classroom teachers of communication. All are published scholars and writers.
 
 The WCC works with MIT undergraduates, graduate students, post-docs, faculty, staff, alums, and spouses. The WCC helps you strategize about all types of academic and professional writing as well as about all aspects of oral presentations (including practicing classroom presentations and conference talks as well as designing slides).
 

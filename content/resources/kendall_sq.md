@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/d700b883f367bdf40572194b090f445b_Kendall_Sq.jpg
 file_size: 35692
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

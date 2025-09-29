@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: A list of required and suggested readings for 11.S942 Wanderings in Psychogeography.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Schedule of Readings
