@@ -5,8 +5,6 @@ description: This file contains a sample of student work from 11.S942 Wanderings
 file: /courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-history-biography-memory-culture-nature-poetry-surreality-fantasy-and-madness-fall-2020/5d3a2bd52ff69c9ea8081106d222e53f_MIT11_s942f20_shao4.pdf
 file_size: 82800
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
