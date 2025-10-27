@@ -133,7 +133,7 @@ If you have a documented disability, or any other problem you think may affect y
 
 _Writing and Communication Center_
 
-The [Writing and Communication Center at MIT](https://cmsw.mit.edu/writing-and-communication-center/) (WCC) offers free one-on-one professional advice from communication experts. The WCC is staffed completely by MIT lecturers. All have advanced degrees. All are experienced college classroom teachers of communication. All are published scholars and writers.
+The {{% resource_link "dad877b5-84f4-4686-913c-ba92c8a56ffc" "Writing and Communication Center at MIT" %}} (WCC) offers free one-on-one professional advice from communication experts. The WCC is staffed completely by MIT lecturers. All have advanced degrees. All are experienced college classroom teachers of communication. All are published scholars and writers.
 
 The WCC works with MIT undergraduates, graduate students, post-docs, faculty, staff, alums, and spouses. The WCC helps you strategize about all types of academic and professional writing as well as about all aspects of oral presentations (including practicing classroom presentations and conference talks as well as designing slides).
 
