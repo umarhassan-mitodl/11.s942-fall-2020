@@ -15,7 +15,7 @@ Below, Ezra Haber Glenn describes various aspects of how he teaches *11.S942 Wan
 
 {{< resource uuid="d700b883-f367-bdf4-0572-194b090f445b" >}}
 
-Students in 11.S942 might encounter this scene while on a psychogeographic wandering around the Kendall Square neighborhood in Cambridge, Massachusetts. (Image courtesy of [bogdantapu](https://flickr.com/photos/bogdantapu/42473485940/in/photolist-27HeHBJ-6eroj-bqmQqs-eN2V7E-owQn4-5AbtS4-bqmQrj-DTNTL6-6kTuH7-7TDtp4-5AfLpm-DEFbFE-4dtsLe-4vZeKA-DmwgVb-D2YKtd-e8vpf1-MYxPtT-6f66He-eFn3Z-7WnCN3-6kTumQ-DkiBvz-DmzTRo-2emCiGf-DGQtDg-NkCw5y-6kTmNd-owQ6N-54aFJy-rdAHq8-5AfLpE-6kPdVK-2emCih7-5AfLpY-rYoMkG-4YzVyY-DrFopL-CRinwp-DPdzZJ-6kPbWP-Mpk3aw-6kTkCy-6kPj2H-AQSr6g-6kPmB8-6kPkQB-6g3dkV-6kTr57-6kPjS6) on Flickr. License CC BY-NC.)
+Students in 11.S942 might encounter this scene while on a psychogeographic wandering around the Kendall Square neighborhood in Cambridge, Massachusetts. (Image courtesy of {{% resource_link "418d6abb-eee3-4452-971d-80a5f5337269" "bogdantapu" %}} on Flickr. License CC BY-NC.)
 
 **OCW**: What is psychogeography, and what inspired you to create a course on the topic?
 
@@ -57,7 +57,7 @@ My only advice: don't worry about the finished product yet, have fun experimenti
 
 **OCW**: Please explain the optional walks “to explore various sites and neighborhoods to put into practice psychogeographic principles.” Where did you go, and what were some of the principles you put into practice? How did this work virtually?
 
-**Ezra Haber Glenn:** In 2017, we would go out and about near campus, looking for clues to various mysteries we could solve around the city: What used to be here? Why is this place like this? How do different people experience this place differently? What is that smell? How many ghosts do you see? The idea was to practice what psychogeographers refer to as the “[*dérive*](http://www.bopsecrets.org/SI/2.derive.htm).” (As noted above, in the virtual world, this didn’t work very well.)
+**Ezra Haber Glenn:** In 2017, we would go out and about near campus, looking for clues to various mysteries we could solve around the city: What used to be here? Why is this place like this? How do different people experience this place differently? What is that smell? How many ghosts do you see? The idea was to practice what psychogeographers refer to as the “{{% resource_link "6cdde38f-2814-427c-a091-a3e9076b81ae" "*dérive*" %}}.” (As noted above, in the virtual world, this didn’t work very well.)
 
 {{< /div-with-class >}}
 
@@ -80,7 +80,7 @@ None
 
 ### Requirements Satisfied
 
-11.S942 can be applied toward a [Master’s degree in City Planning](https://dusp.mit.edu/masters), but is not required.
+11.S942 can be applied toward a {{% resource_link "4f26afd1-0ed8-45bf-9f01-23a474e911a5" "Master’s degree in City Planning" %}}, but is not required.
 
 ### Offered
 
